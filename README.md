@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## nomadcoers react study
+## nomadcoders react study
 Just study
 
 leacture url : https://nomadcoders.co/react-for-beginners
