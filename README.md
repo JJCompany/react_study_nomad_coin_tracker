@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## nomadcoers react study
+Just study
+
+leacture url : https://nomadcoders.co/react-for-beginners
+
 ## Available Scripts
 
 In the project directory, you can run:
